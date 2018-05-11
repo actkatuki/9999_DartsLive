@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 44e81908f366b144fb16e8dea81d3dad
+timeCreated: 1516457389
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Source Han Sans JP
+  fontNames:
+  - Source Han Sans JP
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
