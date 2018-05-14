@@ -9,12 +9,15 @@ public class SceneSelect : MonoBehaviour
     public int _defaultscene;
 
     private bool _loading;
+#if UNITY_EDITOR
+
 
     void Awake()
     {
         SceneLoader.Instance.SetSceneID(_defaultscene);
         SceneLoader.Instance.SetSceneSave();
     }
+#endif
 
     /// <summary>
     /// ///////////シーンローダーの中継
