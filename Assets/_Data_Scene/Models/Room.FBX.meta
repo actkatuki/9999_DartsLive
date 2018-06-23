@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 7edb21d4b74458945b4456fcfd58cb0a
 ModelImporter:
-  serializedVersion: 23
+  serializedVersion: 22
   fileIDToRecycleName:
     100000: Box002
     100002: Box005
@@ -12,6 +12,20 @@ ModelImporter:
     100012: Box011
     100014: Rectangle001
     100016: //RootNode
+    100018: Rectangle006
+    100020: "\u30AA\u30D6\u30B8\u30A7\u30AF\u30C8001"
+    100022: "\u30AA\u30D6\u30B8\u30A7\u30AF\u30C8002"
+    100024: "\u30AA\u30D6\u30B8\u30A7\u30AF\u30C8003"
+    100026: Floor
+    100028: Glass
+    100030: Sus
+    100032: Sus_Bk
+    100034: Table
+    100036: Wall01
+    100038: Wall02
+    100040: Wall03
+    100042: DL
+    100044: LLight
     400000: Box002
     400002: Box005
     400004: Box006
@@ -21,7 +35,23 @@ ModelImporter:
     400012: Box011
     400014: Rectangle001
     400016: //RootNode
+    400018: Rectangle006
+    400020: "\u30AA\u30D6\u30B8\u30A7\u30AF\u30C8001"
+    400022: "\u30AA\u30D6\u30B8\u30A7\u30AF\u30C8002"
+    400024: "\u30AA\u30D6\u30B8\u30A7\u30AF\u30C8003"
+    400026: Floor
+    400028: Glass
+    400030: Sus
+    400032: Sus_Bk
+    400034: Table
+    400036: Wall01
+    400038: Wall02
+    400040: Wall03
+    400042: DL
+    400044: LLight
     2100000: No Name
+    2100002: Wall
+    2100004: Floor
     2300000: Box002
     2300002: Box005
     2300004: Box006
@@ -30,6 +60,19 @@ ModelImporter:
     2300010: Box010
     2300012: Box011
     2300014: Rectangle001
+    2300016: Rectangle006
+    2300018: "\u30AA\u30D6\u30B8\u30A7\u30AF\u30C8001"
+    2300020: "\u30AA\u30D6\u30B8\u30A7\u30AF\u30C8002"
+    2300022: Floor
+    2300024: Glass
+    2300026: Sus
+    2300028: Sus_Bk
+    2300030: Table
+    2300032: Wall01
+    2300034: Wall02
+    2300036: Wall03
+    2300038: DL
+    2300040: LLight
     3300000: Box002
     3300002: Box005
     3300004: Box006
@@ -38,6 +81,19 @@ ModelImporter:
     3300010: Box010
     3300012: Box011
     3300014: Rectangle001
+    3300016: Rectangle006
+    3300018: "\u30AA\u30D6\u30B8\u30A7\u30AF\u30C8001"
+    3300020: "\u30AA\u30D6\u30B8\u30A7\u30AF\u30C8002"
+    3300022: Floor
+    3300024: Glass
+    3300026: Sus
+    3300028: Sus_Bk
+    3300030: Table
+    3300032: Wall01
+    3300034: Wall02
+    3300036: Wall03
+    3300038: DL
+    3300040: LLight
     4300000: Box002
     4300002: Box005
     4300004: Box006
@@ -46,6 +102,19 @@ ModelImporter:
     4300010: Box010
     4300012: Rectangle001
     4300014: Box011
+    4300016: "\u30AA\u30D6\u30B8\u30A7\u30AF\u30C8001"
+    4300018: "\u30AA\u30D6\u30B8\u30A7\u30AF\u30C8002"
+    4300020: Rectangle006
+    4300022: Wall02
+    4300024: Wall01
+    4300026: Table
+    4300028: Floor
+    4300030: Sus_Bk
+    4300032: Wall03
+    4300034: Sus
+    4300036: Glass
+    4300038: DL
+    4300040: LLight
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -85,7 +154,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
@@ -97,8 +166,6 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
