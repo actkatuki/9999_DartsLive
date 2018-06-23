@@ -1,0 +1,118 @@
+fileFormatVersion: 2
+guid: 927b2e043a95c0542bb9514fd40bf4c7
+timeCreated: 1491549217
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: M_Miner_Glove_Right
+    100004: worker_RDigit11
+    100006: worker_RDigit12
+    100008: worker_RDigit13
+    100010: worker_RDigit21
+    100012: worker_RDigit22
+    100014: worker_RDigit23
+    100016: worker_RDigit31
+    100018: worker_RDigit32
+    100020: worker_RDigit33
+    100022: worker_RDigit41
+    100024: worker_RDigit42
+    100026: worker_RDigit43
+    100028: worker_RDigit51
+    100030: worker_RDigit52
+    100032: worker_RDigit53
+    100034: worker_RPalm
+    400000: //RootNode
+    400002: M_Miner_Glove_Right
+    400004: worker_RDigit11
+    400006: worker_RDigit12
+    400008: worker_RDigit13
+    400010: worker_RDigit21
+    400012: worker_RDigit22
+    400014: worker_RDigit23
+    400016: worker_RDigit31
+    400018: worker_RDigit32
+    400020: worker_RDigit33
+    400022: worker_RDigit41
+    400024: worker_RDigit42
+    400026: worker_RDigit43
+    400028: worker_RDigit51
+    400030: worker_RDigit52
+    400032: worker_RDigit53
+    400034: worker_RPalm
+    4300000: M_Miner_Glove_Right
+    7400000: Open
+    7400002: Close
+    9500000: //RootNode
+    13700000: M_Miner_Glove_Right
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
